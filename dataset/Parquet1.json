@@ -10,9 +10,9 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "Sink",
-				"folderPath": "data-container",
-				"fileSystem": "adlslabs20250421"
+				"fileName": "sink.parquet",
+				"folderPath": "parquet_activity",
+				"fileSystem": "data-container"
 			},
 			"compressionCodec": "snappy"
 		},
