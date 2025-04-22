@@ -11,8 +11,7 @@
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"fileName": "ActivityLog01.csv",
-				"folderPath": "data-container",
-				"fileSystem": "adlslabs20250421"
+				"fileSystem": "data-container"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
