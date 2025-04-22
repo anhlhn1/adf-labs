@@ -1,0 +1,9 @@
+{
+	"name": "adf-abb-ws",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "42cca01a-b629-4a03-9764-36270f1444cd",
+		"tenantId": "ff91fb22-4373-41f4-be30-27a1e3b79063"
+	}
+}
